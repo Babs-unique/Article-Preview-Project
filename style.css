@@ -14,7 +14,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 300px;
+    height: 100%;
 }
 .image-illustration{
     margin-top: 5px;
